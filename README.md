@@ -1,4 +1,4 @@
-# Space Shooter Game Project
+# Space Shooter Game - App Development Competition
 
 This project is a space shooter game created using [Thunkable](https://x.thunkable.com/projectPage/61e61fa687633200affd3764). I achieved 1st place in class, showcasing the capabilities of Thunkable for game development. The project took close to 3 weeks to build.
 https://x.thunkable.com/copy/685327026d6254bc17b3d0b4a1e1b069
